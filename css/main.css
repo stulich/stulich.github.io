@@ -97,8 +97,13 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
-
+body {
+  background-image:url(../img/background.jpg);
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
 
 
 
