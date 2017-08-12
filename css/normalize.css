@@ -45,7 +45,7 @@ section {
  */
 
 h1 {
-  
+
   font-size: 2em;
   margin: 0.67em 0;
 }
@@ -160,7 +160,7 @@ dfn {
  */
 
 mark {
-  background-color: #ff0;
+  background-color: #000;
   color: #000;
 }
 

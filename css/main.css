@@ -241,9 +241,9 @@ body {
         text-shadow: none !important;
     }
 
-    a,
+    a, 
     a:visited {
-        text-decoration: underline;
+        color: #000
     }
 
     a[href]:after {
